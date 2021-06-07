@@ -12,7 +12,7 @@ var normalize = require('normalize-path');
 
 /* Fontello API parameters */
 var getOptions = {
-  follow: 10
+  follow_max: 10
 };
 
 /* Verify or build paths */
