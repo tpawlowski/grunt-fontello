@@ -28,9 +28,9 @@
     "test": "grunt test"
   },
   "devDependencies": {
-    "grunt-contrib-clean": "~0.4.0",
-    "grunt-contrib-jshint": "^1.1.0",
-    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-clean": "~2.0.0",
+    "grunt-contrib-jshint": "^3.0.0",
+    "grunt-contrib-nodeunit": "~3.0.0",
     "grunt-contrib-watch": "^1.1.0"
   },
   "peerDependencies": {},
@@ -42,11 +42,11 @@
     "font"
   ],
   "dependencies": {
-    "async": "~0.2.9",
-    "grunt": "~1.0.1",
-    "mkdirp": "~0.3.5",
-    "needle": "~0.11.0",
-    "normalize-path": "^2.1.1",
-    "unzipper": "^0.10.5"
+    "async": "~3.2.0",
+    "grunt": "~1.4.1",
+    "mkdirp": "~1.0.4",
+    "needle": "~2.6.0",
+    "normalize-path": "^3.0.0",
+    "unzipper": "^0.10.11"
   }
 }
